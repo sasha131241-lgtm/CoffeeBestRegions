@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:lightyellow;
+}
+
+.rings{
+    position:relative;
+    width:340px;
+    height:170px;
+}
+
+.ring{
+    position:absolute;
+    width:90px;
+    height:90px;
+    border:8px solid;
+    border-radius:50%;
+    background:transparent;
+}
+
+.ring1{
+    border-color:gold;
+    left:0;
+    top:0;
+}
+
+.ring2{
+    border-color:darkorange;
+    left:105px;
+    top:0;
+}
+
+.ring3{
+    border-color:red;
+    left:210px;
+    top:0;
+}
+
+.ring4{
+    border-color:greenyellow;
+    left:52px;
+    top:52px;
+}
+
+.ring5{
+    border-color:green;
+    left:157px;
+    top:52px;
+}

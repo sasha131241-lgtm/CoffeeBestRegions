@@ -1,21 +1,66 @@
-@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Raleway:wght@400;700&display=swap');
+
 body{
-    margin: 0;
-    font-family: 'Raleway', sans-serif;
-    background-color: whitesmoke;
-
-}
-.header {
-    height: 400px;
-    background-image: url('../img/Image20260629205330.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin:0;
+    font-family:Raleway, sans-serif;
+    background-color:#f4f1ea;
 }
 
-h1 {
-    font-size: 100px;
+.header{
+    height:400px;
+    background-image:url("../img/Image20260629205224.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+    padding-top:120px;
+}
+
+h1{
     font-family:"Covered By Your Grace", cursive;
-    color:rgba(3, 155, 100, 0.75);
-    text-align: center;
+    font-size:80px;
+    color:white;
+    text-shadow:2px 2px 5px black;
+}
+
+.main{
+    width:90%;
+    margin:20px auto;
+}
+
+.countries{
+    list-style:none;
+    padding:0;
+}
+
+.countries li{
+    display:inline-block;
+    width:45%;
+    margin:10px;
+    padding:15px;
+    background-color:#fff8dc;
+    border:2px solid brown;
+    vertical-align:top;
+}
+
+.countries h2{
+    text-align:center;
+    color:brown;
+    font-family:"Covered By Your Grace", cursive;
+    font-size:40px;
+}
+
+.countries p{
+    font-size:16px;
+    line-height:1.5;
+}
+
+.countries a{
+    color:darkred;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.countries a:hover{
+    text-decoration:underline;
 }
