@@ -16,51 +16,51 @@ body{
     padding-top:120px;
 }
 
-h1{
-    font-family:"Covered By Your Grace", cursive;
-    font-size:80px;
-    color:white;
-    text-shadow:2px 2px 5px black;
-}
+/*h1{*/
+/*    font-family:"Covered By Your Grace", cursive;*/
+/*    font-size:80px;*/
+/*    color:white;*/
+/*    text-shadow:2px 2px 5px black;*/
+/*}*/
 
-.main{
-    width:90%;
-    margin:20px auto;
-}
+/*.main{*/
+/*    width:90%;*/
+/*    margin:20px auto;*/
+/*}*/
 
-.countries{
-    list-style:none;
-    padding:0;
-}
+/*.countries{*/
+/*    list-style:none;*/
+/*    padding:0;*/
+/*}*/
 
-.countries li{
-    display:inline-block;
-    width:45%;
-    margin:10px;
-    padding:15px;
-    background-color:#fff8dc;
-    border:2px solid brown;
-    vertical-align:top;
-}
+/*.countries li{*/
+/*    display:inline-block;*/
+/*    width:45%;*/
+/*    margin:10px;*/
+/*    padding:15px;*/
+/*    background-color:#fff8dc;*/
+/*    border:2px solid brown;*/
+/*    vertical-align:top;*/
+/*}*/
 
-.countries h2{
-    text-align:center;
-    color:brown;
-    font-family:"Covered By Your Grace", cursive;
-    font-size:40px;
-}
+/*.countries h2{*/
+/*    text-align:center;*/
+/*    color:brown;*/
+/*    font-family:"Covered By Your Grace", cursive;*/
+/*    font-size:40px;*/
+/*}*/
 
-.countries p{
-    font-size:16px;
-    line-height:1.5;
-}
+/*.countries p{*/
+/*    font-size:16px;*/
+/*    line-height:1.5;*/
+/*}*/
 
-.countries a{
-    color:darkred;
-    text-decoration:none;
-    font-weight:bold;
-}
+/*.countries a{*/
+/*    color:darkred;*/
+/*    text-decoration:none;*/
+/*    font-weight:bold;*/
+/*}*/
 
-.countries a:hover{
-    text-decoration:underline;
-}
+/*.countries a:hover{*/
+/*    text-decoration:underline;*/
+/*}*/
