@@ -6,8 +6,9 @@ body{
     background-color:#f4f1ea;
 }
 
+
 .header{
-    height:400px;
+    height:350px;
     background-image:url("../img/Image20260629205224.jpg");
     background-repeat:no-repeat;
     background-size:cover;
@@ -15,6 +16,55 @@ body{
     text-align:center;
     padding-top:120px;
 }
+
+.header h1{
+    font-family:'Covered By Your Grace', cursive;
+    font-size:70px;
+    color:white;
+    text-shadow:3px 3px 8px black;
+}
+
+h2{
+    color:brown;
+    text-align:center;
+}
+
+
+p{
+    font-size:18px;
+    line-height:25px;
+}
+
+
+a{
+    text-decoration:none;
+    color:darkseagreen;
+    padding:10px;
+    border-radius:5px;
+}
+
+
+.left div{
+    border-left:8px solid green;
+    width:80%;
+    margin:30px auto;
+    background:white;
+    padding:20px;
+    border-radius:15px;
+}
+
+.rigth div{
+    border-left:8px solid orange;
+    width:80%;
+    margin:30px auto;
+    background:white;
+    padding:20px;
+    border-radius:15px;
+}
+
+
+
+
 
 /*h1{*/
 /*    font-family:"Covered By Your Grace", cursive;*/
